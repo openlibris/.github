@@ -4,6 +4,12 @@
 
 OpenLibris is a initiative aimed at crafting open software for all libraries, including home and community libraries.
 
+## News
+
+### Oct 28, 2023: Opening a private alpha of OpenLibris
+
+A private alpha of OpenLibris is coming soon.
+
 ## FAQs
 
 ### Where can I download OpenLibris right now?
